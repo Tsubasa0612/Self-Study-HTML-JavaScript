@@ -1,0 +1,18 @@
+/*FOCUS*/
+.AfterChiken {
+  width: 200px;
+  margin: 0% 0% 0% 40%;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+  
+.AfterChiken:hover {
+  margin: 0% 0% 0% 40%;
+  border: 25px solid #000;
+  border-radius: 55%;
+  width: 200px;
+  text-align: center;
+}
